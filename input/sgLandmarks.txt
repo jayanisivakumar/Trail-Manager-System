@@ -1,0 +1,16 @@
+LANDMARK_ID,DESCRIPTION,TYPE
+SG01,Marina Bay Sands,Hotel
+SG02,Gardens by the Bay,Gardens
+SG03,Merlion Park,Monument
+SG04,Clarke Quay,Shopping
+SG05,Sentosa Island,Island
+SG06,Changi Airport,Airport
+SG07,Orchard Road,Shopping
+SG08,Esplanade - Theatres on the Bay,Theatre
+SG09,Singapore Zoo,Zoo
+SG10,Universal Studios Singapore,Theme Park
+SG11,Singapore Flyer,Ferris Wheel
+SG12,Botanic Gardens,Park
+SG13,National Gallery,Museum
+SG14,Asian Civilisations Museum,Museum
+SG99,Isolated Landmark,Unknown
