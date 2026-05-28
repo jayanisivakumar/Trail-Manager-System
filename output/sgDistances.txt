@@ -1,0 +1,15 @@
+Landmarks Reachable from Marina Bay Sands (SG01) {
+   800 feet to Merlion Park (SG03)
+   1200 feet to Gardens by the Bay (SG02)
+   1200 feet to National Gallery (SG13)
+   3200 feet to Clarke Quay (SG04)
+   3300 feet to Botanic Gardens (SG12)
+   4300 feet to Sentosa Island (SG05)
+   4400 feet to Asian Civilisations Museum (SG14)
+   6000 feet (1.14 miles) to Singapore Flyer (SG11)
+   8000 feet (1.52 miles) to Universal Studios Singapore (SG10)
+   8800 feet (1.67 miles) to Orchard Road (SG07)
+   11000 feet (2.08 miles) to Singapore Zoo (SG09)
+   13200 feet (2.50 miles) to Changi Airport (SG06)
+   13500 feet (2.56 miles) to Esplanade - Theatres on the Bay (SG08)
+}

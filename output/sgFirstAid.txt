@@ -1,0 +1,14 @@
+Proposed Locations for First Aid Stations {
+   Gardens by the Bay (SG02) - 4 intersecting trails
+   Marina Bay Sands (SG01) - 4 intersecting trails
+   Botanic Gardens (SG12) - 2 intersecting trails
+   Changi Airport (SG06) - 2 intersecting trails
+   Clarke Quay (SG04) - 2 intersecting trails
+   Esplanade - Theatres on the Bay (SG08) - 2 intersecting trails
+   Merlion Park (SG03) - 2 intersecting trails
+   Orchard Road (SG07) - 2 intersecting trails
+   Sentosa Island (SG05) - 2 intersecting trails
+   Singapore Flyer (SG11) - 2 intersecting trails
+   Singapore Zoo (SG09) - 2 intersecting trails
+   Universal Studios Singapore (SG10) - 2 intersecting trails
+}

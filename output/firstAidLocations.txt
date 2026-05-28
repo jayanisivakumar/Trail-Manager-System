@@ -1,0 +1,14 @@
+Proposed Locations for First Aid Stations {
+   Park Entrance (L01) - 3 intersecting trails
+   Entrance Fountain (L02) - 2 intersecting trails
+   Entrance Restrooms (L04) - 2 intersecting trails
+   Overlook 1 (L05) - 2 intersecting trails
+   Overlook 2 (L07) - 2 intersecting trails
+   Rock Formation 1 (L06) - 2 intersecting trails
+   Waste Station 1 (L03) - 2 intersecting trails
+   Campsite 1 (L11) - 1 intersecting trails
+   Campsite Restrooms (L12) - 1 intersecting trails
+   Hidden Gardens (L10) - 1 intersecting trails
+   Overlook Restrooms (L08) - 1 intersecting trails
+   Waste Station 2 (L09) - 1 intersecting trails
+}
