@@ -47,8 +47,8 @@ Trail-Manager-System/
 ├── output/
 │   └── sample expected or generated output files
 ├── lib/
-│   └── external libraries, if needed
+│   └── external libraries
 ├── bbtp/
 │   └── black-box test plan files
 └── doc/
-    └── project documentation, if included
+    └── project documentation
